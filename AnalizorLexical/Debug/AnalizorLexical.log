@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  AnalizorLexical.cpp
+  DFA.cpp
+c:\users\jpetcu\source\repos\analizorlexical\analizorlexical\dfa.cpp(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\jpetcu\source\repos\analizorlexical\analizorlexical\dfa.cpp(39): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  AnalizorLexical.vcxproj -> C:\Users\JPetcu\source\repos\AnalizorLexical\Debug\AnalizorLexical.exe
